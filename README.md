@@ -40,7 +40,7 @@
 
 ### 🤝🏻 Connect with Me
 <p align="center">
-&nbsp; <a href="by_mori@163.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:by_mori@163.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 Aaahhhhhh !! My contribution grapgh is getting eaten... 😶
