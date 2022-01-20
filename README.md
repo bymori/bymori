@@ -1,5 +1,13 @@
-<h2> Hey there! I'm By_mori(末). <img src="https://cdn.jsdelivr.net/gh/bymori/image-PicX/typora/Hi.gif" width="25"></h2>
+<!-- 动态打字效果 -->
+<!-- 来自 https://readme-typing-svg.herokuapp.com/ -->
+<h1 >
+  <a href="http://ioinn.cn/">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=27&vCenter=true&lines=Hey%2C+stranger+the+screen!;+I'm+By_mori(%E6%9C%AB).">
+   <img src="https://cdn.jsdelivr.net/gh/bymori/image-PicX/typora/Hi.gif" width="25">
+  </a>
+</h1>
 
+<!-- 敲代码的图片 -->
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" /> -->
 <img align="right" alt="GIF" src="./gif4.gif?raw=true" width="500"/>
 
@@ -37,10 +45,17 @@
 
 Aaahhhhhh !! My contribution grapgh is getting eaten... 😶
 <p> 
+ <!-- 贪吃蛇代码贡献图 -->
  <img src="https://cdn.jsdelivr.net/gh/bymori/image-PicX/typora/github-contribution-grid-snake.gif" />
 </p>
 
+<!-- GitHub Activity Graph -->
+<!-- 来自 https://github.com/Ashutosh00710/github-readme-activity-graph/ -->
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=bymori&theme=xcode" /></div>
+
 #### Visitor Count
+
+<!-- 访客数统计徽标 -->
  ![Visitor Count](https://profile-counter.glitch.me/{bymori}/count.svg)
  
  <!-- addded on 20th Jan 2022 -->
