@@ -46,16 +46,17 @@
 Aaahhhhhh !! My contribution grapgh is getting eaten... 😶
 
  <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://raw.githubusercontent.com/bymori/bymori/main/assets/github-contribution-grid-snake.svg" alt="Generate Snake" /></div>
+<div align="center"><a href="https://github.com/bymori"><img src="https://raw.githubusercontent.com/bymori/bymori/main/assets/github-contribution-grid-snake.svg" alt="Generate Snake" /></a></div>
 
 
 <!-- GitHub Activity Graph -->
 <!-- 来自 https://github.com/Ashutosh00710/github-readme-activity-graph/ -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=bymori&theme=xcode" /></div>
+<div align="center"><a href="https://github.com/bymori"><img src="https://activity-graph.herokuapp.com/graph?username=bymori&theme=xcode" /></a></div>
 
 #### Visitor Count
 
 <!-- 访客数统计徽标 -->
  ![Visitor Count](https://profile-counter.glitch.me/{bymori}/count.svg)
+
  
  <!-- addded on 20th Jan 2022 -->
