@@ -1,7 +1,7 @@
 <h2> Hey there! I'm By_mori(末). <img src="https://cdn.jsdelivr.net/gh/bymori/image-PicX/typora/Hi.gif" width="25"></h2>
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" /> -->
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/bymori/image-PicX/typora/gif4.gif?raw=true" width="500"/>
+<img align="right" alt="GIF" src="./gif4.gif?raw=true" width="500"/>
 
 ### 👨🏻‍💻 About Me 
 
@@ -42,3 +42,5 @@ Aaahhhhhh !! My contribution grapgh is getting eaten... 😶
 
 #### Visitor Count
  ![Visitor Count](https://profile-counter.glitch.me/{bymori}/count.svg)
+ 
+ <!-- addded on 20th Jan 2022 -->
