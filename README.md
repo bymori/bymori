@@ -44,10 +44,10 @@
 </p>
 
 Aaahhhhhh !! My contribution grapgh is getting eaten... 😶
-<p> 
+
  <!-- 贪吃蛇代码贡献图 -->
- <img src="https://cdn.jsdelivr.net/gh/bymori/image-PicX/typora/github-contribution-grid-snake.gif" />
-</p>
+<div align="center"><img src="https://raw.githubusercontent.com/bymori/bymori/main/assets/github-contribution-grid-snake.svg" alt="Generate Snake" /></div>
+
 
 <!-- GitHub Activity Graph -->
 <!-- 来自 https://github.com/Ashutosh00710/github-readme-activity-graph/ -->
